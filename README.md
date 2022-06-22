@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 **LinkedIn**: [Click here!](https://www.linkedin.com/in/prybytkin-mike-3a597b120/)
 
 ## Pet Projects
-Project repositorie|Project Deploy|Project Description
+Project Repository|Project Deploy|Project Description
 ---|---|---
 [IT-Academy final project](https://github.com/mike-prybytkin/IT-Academy-final-project)|[Five page website](https://mike-prybytkin.github.io/IT-Academy-final-project/home.html)|The final project of the WEBSITE DEVELOPMENT WITH HTML & CSS course in IT-Academy.
 [RSS CV](https://github.com/mike-prybytkin/rsschool-cv)|[CV project](https://mike-prybytkin.github.io/rsschool-cv/)|My first CV project during the RollingScopesSchool courses JavaScript/Front-end. Stage 0.

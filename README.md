@@ -25,5 +25,7 @@ Here are some ideas to get you started:
 Letter | Digit | Character
 ------ | ------|----------
 a      | 4     | $
+-------|-------|----------
        | 365   | (
+-------|-------|-------
 b      |       | ^  

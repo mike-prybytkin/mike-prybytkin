@@ -22,8 +22,8 @@ Here are some ideas to get you started:
 **LinkedIn**: [Click here!](https://www.linkedin.com/in/prybytkin-mike-3a597b120/)
 
 ## Pet Projects
-Letter|Digit|Character
+Project repositorie|Project Deploy|Project Description
 ---|---|---
-a|4|$
+[RSS CV](https://github.com/mike-prybytkin/rsschool-cv)|[CV project](https://mike-prybytkin.github.io/rsschool-cv/)|My first CV project during the RollingScopesSchool courses JavaScript/Front-end. Stage 0.
  |365|(
 b| |^ 

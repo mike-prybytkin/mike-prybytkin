@@ -14,9 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-## Contacts
+## Contacts ##
 **Location**: Minsk, Belarus  
 **Phone**: +375 29 159-09-45  
 **Email**: prybytkin.you@gmail.com  
 **Diskord**: Mihey#3420  
+[**LinkedIn**:](https://www.linkedin.com/in/prybytkin-mike-3a597b120/)
 

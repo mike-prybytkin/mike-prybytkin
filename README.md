@@ -22,8 +22,8 @@ Here are some ideas to get you started:
 **LinkedIn**: [Click here!](https://www.linkedin.com/in/prybytkin-mike-3a597b120/)
 
 ## Pet Projects
-Letter | Digit | Character
------- | ------|----------
-a      | 4     | $
-       | 365   | (
-b      |       | ^  
+Letter|Digit|Character
+---|---|---
+a|4|$
+ |365|(
+b| |^ 

@@ -25,6 +25,7 @@ Here are some ideas to get you started:
 Project repositorie|Project Deploy|Project Description
 ---|---|---
 [IT-Academy final project](https://github.com/mike-prybytkin/IT-Academy-final-project)|[Five page website](https://mike-prybytkin.github.io/IT-Academy-final-project/home.html)|The final project of the WEBSITE DEVELOPMENT WITH HTML & CSS course.
+
 [RSS CV](https://github.com/mike-prybytkin/rsschool-cv)|[CV project](https://mike-prybytkin.github.io/rsschool-cv/)|My first CV project during the RollingScopesSchool courses JavaScript/Front-end. Stage 0.
- |365|(
-b| |^ 
+
+[Shelter Cozy House](https://github.com/mike-prybytkin/Shelter-website)|[Shelter](https://mike-prybytkin.github.io/Shelter-website/shelter/pages/main.html)|An adaptive pet's shelter landing page for different kinds of devices and browsers. JavaScript is responsible for different effects like slider, pop-up modal window, pagination and adaptive menu. The RollingScopesSchool courses JavaScript/Front-end. Stage 1.

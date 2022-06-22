@@ -21,3 +21,9 @@ Here are some ideas to get you started:
 **Diskord**: Mihey#3420  
 **LinkedIn**: [Click here!](https://www.linkedin.com/in/prybytkin-mike-3a597b120/)
 
+## Pet Projects
+Letter | Digit | Character
+------ | ------|----------
+a      | 4     | $
+       | 365   | (
+b      |       | ^  

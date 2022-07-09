@@ -1,6 +1,6 @@
 ---
 
-### :hello: Hi there
+### :hi: Hi there
 
 ### :fire: My Stats :
 

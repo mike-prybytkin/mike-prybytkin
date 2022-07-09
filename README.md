@@ -1,4 +1,4 @@
-## Hi there 👋
+** Hi there 👋 **
 [![large](https://user-images.githubusercontent.com/78615304/178086740-778ad3ec-9acf-4d9b-acf8-07c747f6a6be.svg)
 ](https://www.codewars.com/users/mike-prybytkin)
 

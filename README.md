@@ -11,6 +11,15 @@
 
 ---
 
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="TypeScript" alt="TypeScript" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="Figma" alt="Figma" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
+</div>
+
 <!--
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=mike-prybytkin&theme=dark&background=000000)](https://git.io/streak-stats)
 **mike-prybytkin/mike-prybytkin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -46,12 +55,3 @@ Project Repository|Project Deploy|Project Description
 [Random-jokes](https://github.com/mike-prybytkin/random-jokes/tree/random-jokes)|[Try once](https://mike-prybytkin.github.io/random-jokes/random-jokes/)|The RollingScopesSchool courses JavaScript/Front-end. Stage 0.
 [Nature-sounds](https://github.com/mike-prybytkin/nature-sounds/tree/nature-sounds)|[Listen to the birds](https://mike-prybytkin.github.io/nature-sounds/nature-sounds/)|The RollingScopesSchool courses JavaScript/Front-end. Stage 0.
 [Photographer's portfolio](https://github.com/mike-prybytkin/portfolio-task/tree/portfolio-part3)|[Portfolio](https://mike-prybytkin.github.io/portfolio-task/portfolio/)|Photographer's portfolio landing page. JavaScript realizes useful interactive features for the customer. It was required to implement multilingualism, light and dark themes, and naturally adaptive layout with burger-menu. The RollingScopesSchool courses JavaScript/Front-end. Stage 0
-
-<div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="TypeScript" alt="TypeScript" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="Figma" alt="Figma" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
-</div>

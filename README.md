@@ -1,5 +1,6 @@
 ## Hi there 👋
-[https://www.codewars.com/users/mike-prybytkin/badges/large](https://www.codewars.com/users/mike-prybytkin)
+[![large](https://user-images.githubusercontent.com/78615304/178086740-778ad3ec-9acf-4d9b-acf8-07c747f6a6be.svg)
+](https://www.codewars.com/users/mike-prybytkin)
 
 <!--
 **mike-prybytkin/mike-prybytkin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

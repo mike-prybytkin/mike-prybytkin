@@ -4,6 +4,8 @@
 
 ### :fire: My Stats :
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mike-prybytkin&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
 [![large (1)](https://user-images.githubusercontent.com/78615304/178149367-f9376bb1-8268-4291-ab68-c0658308cf8b.svg)
 ](https://github.com/anuraghazra/github-readme-stats)
 

@@ -7,9 +7,6 @@
 [![large (1)](https://user-images.githubusercontent.com/78615304/178149367-f9376bb1-8268-4291-ab68-c0658308cf8b.svg)
 ](https://github.com/anuraghazra/github-readme-stats)
 
-[![large](https://user-images.githubusercontent.com/78615304/178086740-778ad3ec-9acf-4d9b-acf8-07c747f6a6be.svg)
-](https://www.codewars.com/users/mike-prybytkin)
-
 ---
 
 <div>

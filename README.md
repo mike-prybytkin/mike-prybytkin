@@ -9,6 +9,9 @@
 [![large (1)](https://user-images.githubusercontent.com/78615304/178149367-f9376bb1-8268-4291-ab68-c0658308cf8b.svg)
 ](https://github.com/anuraghazra/github-readme-stats)
 
+[![large](https://user-images.githubusercontent.com/78615304/187084216-572c0cf6-9fff-4e32-9fe0-f7ef14216e80.svg)
+](https://github.com/anuraghazra/github-readme-stats)
+
 ---
 
 <div>

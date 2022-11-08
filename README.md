@@ -1,6 +1,6 @@
 ---
 
-### :wave: Hi there
+
 
 Contacts|:fire: My Stats
 |:---|:---:|

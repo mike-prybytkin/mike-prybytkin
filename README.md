@@ -1,6 +1,6 @@
 :mag_right: Contacts | :fire: My Stats
 |:---|:---:|
-<p style="font-size: 20px">**Location**: Minsk, Belarus</p>  </br>  **Phone**: +375 29 159-09-45  </br>  **Email**: prybytkin.you@gmail.com  </br>  **Diskord**: Mihey#3420  </br>  **LinkedIn**: [Click here!](https://www.linkedin.com/in/prybytkin-mike-3a597b120/)|<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mike-prybytkin&layout=compact&theme=vision-friendly-dark" width="400">  </br>  [![large](https://user-images.githubusercontent.com/78615304/187084216-572c0cf6-9fff-4e32-9fe0-f7ef14216e80.svg)](https://github.com/anuraghazra/github-readme-stats)
+<p>**Location**: Minsk, Belarus</p>  </br>  **Phone**: +375 29 159-09-45  </br>  **Email**: prybytkin.you@gmail.com  </br>  **Diskord**: Mihey#3420  </br>  **LinkedIn**: [Click here!](https://www.linkedin.com/in/prybytkin-mike-3a597b120/)|<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mike-prybytkin&layout=compact&theme=vision-friendly-dark" width="400">  </br>  [![large](https://user-images.githubusercontent.com/78615304/187084216-572c0cf6-9fff-4e32-9fe0-f7ef14216e80.svg)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 

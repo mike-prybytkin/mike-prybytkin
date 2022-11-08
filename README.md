@@ -44,7 +44,7 @@ Here are some ideas to get you started:
 **Email**: prybytkin.you@gmail.com  
 **Diskord**: Mihey#3420  
 **LinkedIn**: [Click here!](https://www.linkedin.com/in/prybytkin-mike-3a597b120/)
-## Contacts ## | ## :fire: My Stats ##
+## Contacts | :fire: My Stats ##
 |:---|:---:|
 **Location**: Minsk, Belarus  </br>  **Phone**: +375 29 159-09-45  </br>  **Email**: prybytkin.you@gmail.com  </br>  **Diskord**: Mihey#3420  </br>  **LinkedIn**: [Click here!](https://www.linkedin.com/in/prybytkin-mike-3a597b120/)|[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mike-prybytkin&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)  </br>  [![large](https://user-images.githubusercontent.com/78615304/187084216-572c0cf6-9fff-4e32-9fe0-f7ef14216e80.svg)](https://github.com/anuraghazra/github-readme-stats)
 

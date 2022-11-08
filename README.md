@@ -1,4 +1,4 @@
-Contacts|:fire: My Stats
+:mag_right: Contacts | :fire: My Stats
 |:---|:---:|
 **Location**: Minsk, Belarus  </br>  **Phone**: +375 29 159-09-45  </br>  **Email**: prybytkin.you@gmail.com  </br>  **Diskord**: Mihey#3420  </br>  **LinkedIn**: [Click here!](https://www.linkedin.com/in/prybytkin-mike-3a597b120/)|[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mike-prybytkin&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)  </br>  [![large](https://user-images.githubusercontent.com/78615304/187084216-572c0cf6-9fff-4e32-9fe0-f7ef14216e80.svg)](https://github.com/anuraghazra/github-readme-stats)
 
@@ -12,6 +12,7 @@ Contacts|:fire: My Stats
   <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="Figma" alt="Figma" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/webpack/webpack-original.svg" title="Webpack" alt="Webpack" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
+  <img src="[https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg](https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg)" title="Git" **alt="Git" width="40" height="40"/><span>in progress</span>
 </div>
 
 ---

@@ -37,6 +37,7 @@ Here are some ideas to get you started:
 ## Pet Projects
 Project Repository|Project Deploy|Project Description
 |:---:|:---:|---
+[TZ-Zikmes](https://github.com/mike-prybytkin/tz-zikmes)|[TZ-Zikmes](https://mike-prybytkin.github.io/tz-zikmes/)|Test task for Zikmes company. 
 [RS-Lang](https://github.com/mike-prybytkin/RS-Lang)|[SPA](https://mike-prybytkin.github.io/RS-Lang/)|SPA for learning foreign words, including an electronic textbook with a database of words to learn, mini-games for repeating them, a statistics page for tracking individual progress. The application was written by a team of 3 people. The RollingScopesSchool courses JavaScript/Front-end. Stage 2 **FINAL**!
 [Migration to TS](https://github.com/mike-prybytkin/News-API/tree/migration-to-ts)|[News-API](https://mike-prybytkin.github.io/News-API/News-API/)|An adaptive HTTP REST API application for searching and retrieving news from the entire web. First experience to work with different basic and advanced capabilities of **TypeScript**, with ***ESlint*** and ***Webpack*** configuration. The RollingScopesSchool courses JavaScript/Front-end. Stage 2.
 [Shelter Cozy House](https://github.com/mike-prybytkin/Shelter-website)|[Shelter](https://mike-prybytkin.github.io/Shelter-website/shelter/pages/main.html)|An adaptive pet's shelter landing page for different kinds of devices and browsers. JavaScript is responsible for different effects like *slider, pop-up modal window, pagination and adaptive menu*. The RollingScopesSchool courses JavaScript/Front-end. Stage 1.

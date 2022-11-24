@@ -37,6 +37,7 @@ Here are some ideas to get you started:
 ## Pet Projects
 Project Repository|Project Deploy|Project Description
 |:---:|:---:|---
+[TZ-Autoparus](https://github.com/mike-prybytkin/tz-autoparus)|[TZ-Autoparus](https://mike-prybytkin.github.io/tz-autoparus/)|Test task for Autoparus company.
 [TZ-Zikmes](https://github.com/mike-prybytkin/tz-zikmes)|[TZ-Zikmes](https://mike-prybytkin.github.io/tz-zikmes/)|Test task for Zikmes company. 
 [RS-Lang](https://github.com/mike-prybytkin/RS-Lang)|[SPA](https://mike-prybytkin.github.io/RS-Lang/)|SPA for learning foreign words, including an electronic textbook with a database of words to learn, mini-games for repeating them, a statistics page for tracking individual progress. The application was written by a team of 3 people. The RollingScopesSchool courses JavaScript/Front-end. Stage 2 **FINAL**!
 [Migration to TS](https://github.com/mike-prybytkin/News-API/tree/migration-to-ts)|[News-API](https://mike-prybytkin.github.io/News-API/News-API/)|An adaptive HTTP REST API application for searching and retrieving news from the entire web. First experience to work with different basic and advanced capabilities of **TypeScript**, with ***ESlint*** and ***Webpack*** configuration. The RollingScopesSchool courses JavaScript/Front-end. Stage 2.

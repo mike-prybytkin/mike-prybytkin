@@ -40,6 +40,7 @@ Here are some ideas to get you started:
 ## Pet Projects
 Project Repository|Project Deploy|Project Description
 |:---:|:---:|---
+[TZ-DATAMOLA](https://github.com/mike-prybytkin/tz-datamola)|[TZ-DATAMOLA](https://mike-prybytkin.github.io/tz-datamola/)|Test task for DATAMOLA company.
 [TZ-Dev-Crew](https://github.com/mike-prybytkin/tz-dev-crew)|[TZ-Dev-Crew](https://mike-prybytkin.github.io/tz-dev-crew/)|Test task for Dev Crew company.
 [TZ-Autoparus](https://github.com/mike-prybytkin/tz-autoparus)|[TZ-Autoparus](https://mike-prybytkin.github.io/tz-autoparus/)|Test task for Autoparus company.
 [TZ-Zikmes](https://github.com/mike-prybytkin/tz-zikmes)|[TZ-Zikmes](https://mike-prybytkin.github.io/tz-zikmes/)|Test task for Zikmes company. 

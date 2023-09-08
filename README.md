@@ -1,6 +1,6 @@
 :mag_right: Contacts | :fire: My Stats
 |:---|:---:|
-**Location**: Minsk, Belarus  </br>  **Phone**: +375 29 159-09-45  </br>  **Email**: prybytkin.you@gmail.com  </br>  **Diskord**: Mihey#3420  </br>  **LinkedIn**: [Click here!](https://www.linkedin.com/in/prybytkin-mike-3a597b120/)|<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=mike-prybytkin&layout=compact&theme=vision-friendly-dark" width="400">  </br>  [![large](https://www.codewars.com/users/mike-prybytkin/badges/large)](https://www.codewars.com/users/mike-prybytkin)
+**Location**: Minsk, Belarus  </br>  **Phone**: +375 29 159-09-45  </br>  **Email**: prybytkin.you@gmail.com  </br>  **Diskord**: Mihey#3420  </br>  **LinkedIn**: [Click here!](https://www.linkedin.com/in/prybytkin-mike/)|<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=mike-prybytkin&layout=compact&theme=vision-friendly-dark" width="400">  </br>  [![large](https://www.codewars.com/users/mike-prybytkin/badges/large)](https://www.codewars.com/users/mike-prybytkin)
 
 ---
 

@@ -40,9 +40,12 @@ Here are some ideas to get you started:
 ## Pet Projects
 Project Repository|Project Deploy|Project Description
 |:---:|:---:|---
-[TZ-Alfa-Digital](https://github.com/mike-prybytkin/tz-alfa-digital)|[TZ-Alfa-Digital](https://alfa-repair-building.netlify.app/)|Development of application for a building company Alfa Repair Building. Used technologies and libraries: ***React, TypeScript, React Scroll, React Slick, React Toastify, React Modal, React Hook Form***
-[TZ-DATAMOLA](https://github.com/mike-prybytkin/tz-datamola)|[TZ-DATAMOLA](https://mike-prybytkin.github.io/tz-datamola/)|Test task for DATAMOLA company.
-[TZ-Dev-Crew](https://github.com/mike-prybytkin/tz-dev-crew)|[TZ-Dev-Crew](https://mike-prybytkin.github.io/tz-dev-crew/)|Test task for Dev Crew company.
+[Link](https://github.com/mike-prybytkin/tz-datamola)|[Portfolio](https://mike-prybytkin.github.io/tz-datamola/)|The portfolio was carried out as a test task for the DataMola company.
+[Link](https://github.com/mike-prybytkin/site-vtop3)|[Layout_Vtop3-company](https://vtop3.netlify.app/)|The layout was developed for Vtop-3 company. Technologies and libraries used: ***Webpack, Bootstrap, Swiper***.
+[Link](https://github.com/mike-prybytkin/tz-alfa-digital)|[Web-app_Alfa-Repair-Building](https://alfa-repair-building.netlify.app/)|Development of application for a building company Alfa Repair Building. Used technologies and libraries: ***React, TypeScript, React Scroll, React Slick, React Toastify, React Modal, React Hook Form***
+[Link](https://github.com/mike-prybytkin/tz-dev-crew)|[Layout_Antools-company](https://mike-prybytkin.github.io/tz-dev-crew/)|The layout was developed for Antuls company. ***Webpack*** was used to build the project.
+[Link](https://github.com/mike-prybytkin/tz-egorov-agency)|[App with a list of events](https://mike-prybytkin.github.io/tz-egorov-agency/)|Animation in the application, division into layers, accordion slider - all this is done without the use of third-party libraries. ***TypeScript*** was used to write scripts.
+[Link](https://github.com/mike-prybytkin/test-vtop3)|[TZ-Vtop3](https://mike-prybytkin.github.io/test-vtop3/)|Test task for Vtop3 company. The task included developing a user registration form. The form elements and SVG image should appear with animation using the ***Anime.JS*** library. Implemented form validation using the ***JustValidate*** library. The page is also responsive and optimized according to PageSpeed ​​Insights. ***Gulp*** was used to build the project. ***MaterializeCSS*** was also used.
 [TZ-Autoparus](https://github.com/mike-prybytkin/tz-autoparus)|[TZ-Autoparus](https://mike-prybytkin.github.io/tz-autoparus/)|Test task for Autoparus company.
 [TZ-Zikmes](https://github.com/mike-prybytkin/tz-zikmes)|[TZ-Zikmes](https://mike-prybytkin.github.io/tz-zikmes/)|Test task for Zikmes company.
 [PR with description](https://github.com/Ilya2502/project-management-app/pull/23)|[Kanban](https://comfy-peony-73495c.netlify.app/)|The final draft of the React course from RS School. The work was carried out in a team of 3 people. Used technologies and libraries:  ***React, Redux, TypeScript, Material UI, i18next***...

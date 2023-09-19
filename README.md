@@ -41,6 +41,7 @@ Here are some ideas to get you started:
 Project Repository|Project Deploy|Project Description
 |:---:|:---:|---
 [Link](https://github.com/mike-prybytkin/tz-datamola)|[Portfolio](https://mike-prybytkin.github.io/tz-datamola/)|The portfolio was carried out as a test task for the DataMola company.
+[Link](https://github.com/mike-prybytkin/prallax-3d)|[future portfolio](https://mike-prybytkin.github.io/prallax-3d/)|Start of work on a new portfolio, but there is already something to see there. Namely the ***parallax-3D*** effect.
 [Link](https://github.com/mike-prybytkin/site-vtop3)|[Layout_Vtop3-company](https://vtop3.netlify.app/)|The layout was developed for Vtop-3 company. Technologies and libraries used: ***Webpack, Bootstrap, Swiper***.
 [Link](https://github.com/mike-prybytkin/tz-alfa-digital)|[Web-app_Alfa-Repair-Building](https://alfa-repair-building.netlify.app/)|Development of application for a building company Alfa Repair Building. Used technologies and libraries: ***React, TypeScript, React Scroll, React Slick, React Toastify, React Modal, React Hook Form***
 [Link](https://github.com/mike-prybytkin/tz-dev-crew)|[Layout_Antools-company](https://mike-prybytkin.github.io/tz-dev-crew/)|The layout was developed for Antuls company. ***Webpack*** was used to build the project.
